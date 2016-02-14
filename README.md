@@ -1,3 +1,5 @@
 # React Native Network Example - Get
 
-This example does a GET call to the REST endpoint and displays the result.
+This example covers: 
+ - GET call to the REST endpoint 
+ - Display the response on screen
